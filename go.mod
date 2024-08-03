@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/0xFFAAF/go-ethereum
 
 go 1.21
 
